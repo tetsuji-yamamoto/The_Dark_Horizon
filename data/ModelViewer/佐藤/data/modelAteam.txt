@@ -14,7 +14,7 @@ NUM_TEXTURE = 7
 #------------------------------------------------------------------------------
 # テクスチャファイル名
 #------------------------------------------------------------------------------
-TEXTURE_FILENAME = data/TEXTURE/Space.png			# [0]宇宙テクスチャ
+TEXTURE_FILENAME = data/TEXTURE/sky004.jpg			# [0]宇宙テクスチャ
 TEXTURE_FILENAME = data/TEXTURE/mountain000.png		# [1]山テクスチャ
 TEXTURE_FILENAME = data/TEXTURE/field202.jpg		# [2]地面テクスチャ
 TEXTURE_FILENAME = data/TEXTURE/wall100.jpg			# [3]壁テクスチャ
